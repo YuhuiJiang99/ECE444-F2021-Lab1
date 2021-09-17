@@ -3,10 +3,10 @@ Hello, this is Tony!
 -------------------------------------
 #Git commands I used for Activity5:
 
->>git checkout -b rebase
+git checkout -b rebase
 #Create an empty file c1.txt
->>git add .
->>git commit -m "Create c1.txt"
+git add .
+git commit -m "Create c1.txt"
 
 #Create an empty file c2.txt
 git add .
@@ -25,3 +25,4 @@ git push
 git checkout rebase
 git rebase develop
 git push -u origin rebase
+
